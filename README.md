@@ -20,4 +20,5 @@ DESCRIÇÃO: Implementar uma VM utilizando o Vagrant com os seguintes requisitos
 
 Trabalho Parcial 03 - Ansible
 
-Descrição: Utilizando a Entrega realizada no Trabalho Parcial 02, crie uma Playbook Ansible capaz de instalar o Docker na sua VM e execute este procedimento. Registre o procedimento em imagens e link, se necessário.
+Descrição: Utilizando a Entrega realizada no Trabalho Parcial 02, crie uma Playbook Ansible capaz de instalar o Docker na sua VM e execute este procedimento. 
+Registre o procedimento em imagens e link, se necessário.
